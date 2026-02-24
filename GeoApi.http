@@ -1,0 +1,6 @@
+@GeoApi_HostAddress = http://localhost:5017
+
+GET {{GeoApi_HostAddress}}/openstreetmap/
+Accept: application/json
+
+###
